@@ -43,7 +43,8 @@ function AppForm(props) {
         <button>Submit</button>
         <br></br>
         <br></br>
-        <b>Refine Results By restaurant name, street, area : </b>
+        <b>Refine Results By restaurant name, street, area : </b><br></br>
+        <br></br>
         <input
           type="text"
           placeholder="Refine Results"

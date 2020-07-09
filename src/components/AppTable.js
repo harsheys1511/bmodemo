@@ -21,8 +21,7 @@ function AppTable({ data, any }) {
                                     </ul>
                                 </ul>
                             ) : (
-                                <div className="No">
-                                    </div>
+                                ""
                             )}
                     </div>
                 );
