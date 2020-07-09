@@ -8,7 +8,7 @@ Ans:- I did coding for 2 hours to develop all the components and then perform fu
 
 <b>2. What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.</b>
 <br>
-Ans:- In latest relaese of React, they improve performnace of ReactDOM and I used ReactDOM to create virtual DOM of my projects and divide my code in small components to easily refactor or change it in future.
+Ans:- In latest relaese of React, they improve performnace of ReactDOM and I used ReactDOM to create virtual DOM of my projects and divide my code in small components to easily refactor or change it in future. I do not have any code snippet for that but you can check my project hierarchy to check component structure.
 
 <b>3. How would you track down a performance issue in production? Have you ever had to do this?</b>
 <br>
