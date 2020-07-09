@@ -4,6 +4,7 @@ import axios from "axios";
 import AppTable from "./AppTable.js";
 import './AppForm.css';
 
+
 function AppForm(props) {
   const baseUrl = "https://opentable.herokuapp.com/api";
   const [city, setCity] = useState("");
@@ -19,8 +20,7 @@ function AppForm(props) {
   const fetchCity = (city) => {
     axios.get(baseUrl + "/restaurants?city=" + city)
     .then((response) => {
-      { response &&
-      setData(response.data.restaurants);}
+       setData(response.data.restaurants);
     })
     .catch((response) => {
       alert("Enter valid related city Name");
