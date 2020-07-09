@@ -14,7 +14,7 @@ Ans:- In latest relaese of React, they improve performnace of ReactDOM and I use
 <br>
 Ans: I will check performance issue by doing testing and other activities like check code which is written and its quality, check response time of server for the project, check network traffic and bandwidth usage to access resources. I had to use testing in my capstone project to check response rate of developed project.
 
-</b>4. How would you improve the API that you just used?</b>
+<b>4. How would you improve the API that you just used?</b>
 <br>
 Ans:- In this API, they don't have information about rating,Cuisine types and reviews from customers. I can improve that by adding more information to API and used it to disply that in web application for more convenience.
 
